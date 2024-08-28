@@ -63,7 +63,7 @@ h4 { font-size: 16px; margin-bottom: 1em; }
 /* styles for the section titles */
 #index ul.section span.section_title, 
 #index ul.section span.section_title a 
-{ color: black; }
+{ color: hotpink; }
 
 /* active section title */
 #index span.active_section_title,
